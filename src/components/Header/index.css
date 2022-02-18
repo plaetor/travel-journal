@@ -1,0 +1,23 @@
+.header--container {
+  display: flex;
+  flex-direction: row;
+  background-color: #f55a5a;
+  justify-content: center;
+  align-items: center;
+}
+
+.header--icon {
+  width: 24px;
+  height: 24px;
+  margin-left: auto;
+}
+
+.header--title {
+  color: white;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: -0.075em;
+  margin: 20px auto 20px 10px;
+}
+

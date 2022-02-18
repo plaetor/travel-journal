@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  width: 550px;
+  height: 700px;
+  margin: auto;
+  border: black 2px solid ;
+}
+
